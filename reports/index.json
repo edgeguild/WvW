@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20261013-160436-l88l",
+      "title": "Cmdr Valkyrie",
+      "commanders": [
+        "Cmdr Valkyrie"
+      ],
+      "dateStart": "2026-10-13T03:04:36.000Z",
+      "dateEnd": "2026-10-13T03:35:16.000Z",
+      "dateLabel": "13/10/2026, 16:04:36 - 13/10/2026, 16:35:16",
+      "url": "https://foxyguild.github.io/FoxyWvW/?report=20261013-160436-l88l",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 52,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20261012-144106-ddb7",
       "title": "Foxy Pika Pikachu",
       "commanders": [
