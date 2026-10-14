@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20261014-140743-nzdx",
+      "title": "Cmdr Valkyrie",
+      "commanders": [
+        "Cmdr Valkyrie"
+      ],
+      "dateStart": "2026-10-14T01:07:43.000Z",
+      "dateEnd": "2026-10-14T01:30:30.000Z",
+      "dateLabel": "14/10/2026, 14:07:43 - 14/10/2026, 14:30:30",
+      "url": "https://foxyguild.github.io/FoxyWvW/?report=20261014-140743-nzdx",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 40,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20261013-160436-l88l",
       "title": "Cmdr Valkyrie",
       "commanders": [
