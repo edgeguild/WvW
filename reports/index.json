@@ -1,8 +1,58 @@
 {
   "colorPalette": "rose-pink",
+  "axiTheme": "default",
+  "glass": false,
   "glassSurfaces": false,
-  "glassmorphic": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.7"
+  },
   "entries": [
+    {
+      "id": "20261017-141955-8j7t",
+      "title": "Cmdr Valkyrie, Smart Bastid",
+      "commanders": [
+        "Cmdr Valkyrie",
+        "Smart Bastid"
+      ],
+      "guild": {
+        "id": "818635DD-B361-4EAA-9BD4-86563CA91BF0",
+        "name": "Sharpened In The Mist",
+        "tag": "EDGE"
+      },
+      "dateStart": "2026-10-17T01:19:55.000Z",
+      "dateEnd": "2026-10-17T02:39:04.278Z",
+      "dateLabel": "17/10/2026, 14:19:55 - 17/10/2026, 15:39:04",
+      "url": "https://edgeguild.github.io/WvW/?report=20261017-141955-8j7t",
+      "publishedBy": "edgeguild",
+      "summary": {
+        "borderlandsPct": 0.7283950617283951,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 48,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 19
+      }
+    },
     {
       "id": "20261016-153319-cu1w",
       "title": "Cmdr Valkyrie",
