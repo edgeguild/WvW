@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261117-131038-ao6u",
+      "title": "Cmdr Valkyrie",
+      "commanders": [
+        "Cmdr Valkyrie"
+      ],
+      "guild": {
+        "id": "818635DD-B361-4EAA-9BD4-86563CA91BF0",
+        "name": "Sharpened In The Mist",
+        "tag": "EDGE"
+      },
+      "dateStart": "2026-11-17T00:10:38.000Z",
+      "dateEnd": "2026-11-17T00:48:39.784Z",
+      "dateLabel": "17/11/2026, 13:10:38 - 17/11/2026, 13:48:39",
+      "url": "https://edgeguild.github.io/WvW/?report=20261117-131038-ao6u",
+      "publishedBy": "edgeguild",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 85,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20261116-152855-ppw4",
       "title": "Cmdr Valkyrie",
       "commanders": [
