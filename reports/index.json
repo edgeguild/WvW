@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261119-173153-6rsi",
+      "title": "C Fabain",
+      "commanders": [
+        "C Fabain"
+      ],
+      "guild": {
+        "id": "0D5E2CF5-7C06-E711-80D4-E4115BE8E905",
+        "name": "Strategic Home Land Defense",
+        "tag": "SHLD"
+      },
+      "dateStart": "2026-11-19T04:31:53.000Z",
+      "dateEnd": "2026-11-19T05:45:08.484Z",
+      "dateLabel": "19/11/2026, 17:31:53 - 19/11/2026, 18:45:08",
+      "url": "https://edgeguild.github.io/WvW/?report=20261119-173153-6rsi",
+      "publishedBy": "edgeguild",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20261119-143618-hdma",
       "title": "Cmdr Valkyrie",
       "commanders": [
